@@ -1,0 +1,32 @@
+datetime,sensor_id,speed,incident_description,speed_diff,accident
+2017-01-01 08:00:00,1,65,Free flow traffic,,
+2017-01-01 08:05:00,1,60,Moderate traffic flow,-5.0,
+2017-01-01 08:10:00,1,55,Moderate traffic flow,-5.0,
+2017-01-01 08:15:00,1,30,Moderate traffic flow,-25.0,
+2017-01-01 08:20:00,1,18,Severe congestion reported,-12.0,
+2017-01-01 08:25:00,1,15,Severe congestion reported,-3.0,
+2017-01-01 08:30:00,1,70,Sudden slowdown possible accident,55.0,Sudden slowdown possible accident
+2017-01-01 08:35:00,1,72,Free flow traffic,2.0,
+2017-01-01 08:40:00,1,68,Free flow traffic,-4.0,
+2017-01-01 08:45:00,1,40,Moderate traffic flow,-28.0,
+2017-01-01 08:50:00,1,25,Moderate traffic flow,-15.0,
+2017-01-01 08:55:00,1,20,Moderate traffic flow,-5.0,
+2017-01-01 09:00:00,1,10,Severe congestion reported,-10.0,
+2017-01-01 09:05:00,1,65,Sudden slowdown possible accident,55.0,Sudden slowdown possible accident
+2017-01-01 09:10:00,1,67,Free flow traffic,2.0,
+2017-01-01 08:00:00,2,68,Free flow traffic,,
+2017-01-01 08:05:00,2,64,Free flow traffic,-4.0,
+2017-01-01 08:10:00,2,50,Moderate traffic flow,-14.0,
+2017-01-01 08:15:00,2,45,Moderate traffic flow,-5.0,
+2017-01-01 08:20:00,2,22,Moderate traffic flow,-23.0,
+2017-01-01 08:25:00,2,18,Severe congestion reported,-4.0,
+2017-01-01 08:30:00,2,60,Sudden slowdown possible accident,42.0,Sudden slowdown possible accident
+2017-01-01 08:35:00,2,65,Free flow traffic,5.0,
+2017-01-01 08:40:00,2,70,Free flow traffic,5.0,
+2017-01-01 08:45:00,2,55,Moderate traffic flow,-15.0,
+2017-01-01 08:50:00,2,35,Moderate traffic flow,-20.0,
+2017-01-01 08:55:00,2,20,Moderate traffic flow,-15.0,
+2017-01-01 09:00:00,2,15,Severe congestion reported,-5.0,
+2017-01-01 09:05:00,2,62,Sudden slowdown possible accident,47.0,Sudden slowdown possible accident
+2017-01-01 09:10:00,2,66,Free flow traffic,4.0,
+2017-01-01 08:00:00,3,70,Free flow traffic,,
