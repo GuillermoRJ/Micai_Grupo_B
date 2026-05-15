@@ -1,8 +1,0 @@
-datetime,sensor_id,speed,incident_description,speed_diff,accident
-2017-01-01 08:40:00,3,65,Free flow traffic,3.0,
-2017-01-01 08:45:00,3,50,Moderate traffic flow,-15.0,
-2017-01-01 08:50:00,3,35,Moderate traffic flow,-15.0,
-2017-01-01 08:55:00,3,18,Severe congestion reported,-17.0,
-2017-01-01 09:00:00,3,14,Severe congestion reported,-4.0,
-2017-01-01 09:05:00,3,60,Sudden slowdown possible accident,46.0,Sudden slowdown possible accident
-2017-01-01 09:10:00,3,63,Free flow traffic,3.0,
