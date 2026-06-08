@@ -20,7 +20,7 @@ print(f"Usando dispositivo: {device}")
 if not os.path.exists(ruta_entrada):
     print(f"Error: No se encontró el archivo {ruta_entrada}")
     exit()
-
+k
 df = pd.read_csv(ruta_entrada)
 print("Datos cargados correctamente.")
 
